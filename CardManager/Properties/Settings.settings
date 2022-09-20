@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="CardManager.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="FileSavePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="CARD1NICK" Type="System.String" Scope="User">
+      <Value Profile="(Default)">カード1</Value>
+    </Setting>
+    <Setting Name="CARD2NICK" Type="System.String" Scope="User">
+      <Value Profile="(Default)">カード2</Value>
+    </Setting>
+    <Setting Name="CARD3NICK" Type="System.String" Scope="User">
+      <Value Profile="(Default)">カード3</Value>
+    </Setting>
+    <Setting Name="CARD1AC" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0000-0000-0000-0000</Value>
+    </Setting>
+    <Setting Name="CARD2AC" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0000-0000-0000-0000</Value>
+    </Setting>
+    <Setting Name="CARD3AC" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0000-0000-0000-0000</Value>
+    </Setting>
+    <Setting Name="CARD1KC" Type="System.String" Scope="User">
+      <Value Profile="(Default)">00000000000000000000</Value>
+    </Setting>
+    <Setting Name="CARD2KC" Type="System.String" Scope="User">
+      <Value Profile="(Default)">00000000000000000000</Value>
+    </Setting>
+    <Setting Name="CARD3KC" Type="System.String" Scope="User">
+      <Value Profile="(Default)">00000000000000000000</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

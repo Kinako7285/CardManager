@@ -1,0 +1,11 @@
+D:\ソースコード\CardManager\CardManager\bin\Release\CardManager.exe.config
+D:\ソースコード\CardManager\CardManager\bin\Release\CardManager.exe
+D:\ソースコード\CardManager\CardManager\bin\Release\CardManager.pdb
+D:\ソースコード\CardManager\CardManager\obj\Release\CardManager.csproj.AssemblyReference.cache
+D:\ソースコード\CardManager\CardManager\obj\Release\CardManager.csproj.SuggestedBindingRedirects.cache
+D:\ソースコード\CardManager\CardManager\obj\Release\CardManager.Form1.resources
+D:\ソースコード\CardManager\CardManager\obj\Release\CardManager.Properties.Resources.resources
+D:\ソースコード\CardManager\CardManager\obj\Release\CardManager.csproj.GenerateResource.cache
+D:\ソースコード\CardManager\CardManager\obj\Release\CardManager.csproj.CoreCompileInputs.cache
+D:\ソースコード\CardManager\CardManager\obj\Release\CardManager.exe
+D:\ソースコード\CardManager\CardManager\obj\Release\CardManager.pdb
